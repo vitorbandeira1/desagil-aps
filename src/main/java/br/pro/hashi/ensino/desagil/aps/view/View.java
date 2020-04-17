@@ -38,3 +38,5 @@ public class View extends JPanel implements ActionListener {
         ((JFrame) SwingUtilities.getRoot(this)).pack();
     }
 }
+
+
